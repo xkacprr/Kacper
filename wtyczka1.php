@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Dodaje "Produkty"
+Plugin Name: Produkt
 Description: opis
 Version: 1.0.0
 Author: Kacper
